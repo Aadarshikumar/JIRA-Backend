@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Login Error",
+    "description": "Users can't login on mobile",
+    "projectId": "1",
+    "assignee": "cd5047ed-10fb-4405-b2ad-a7ce0f6c0cd2",
+    "severity": "high",
+    "status": "close",
+    "createdAt": "2025-01-06T08:01:25.735Z"
+  },
+  {
+    "id": "2",
+    "title": "Register Error",
+    "description": "Users can't able to register on website",
+    "projectId": "1",
+    "assignee": "cd5047ed-10fb-4405-b2ad-a7ce0f6c0cd2",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2025-01-06T08:02:38.017Z"
+  }
+]

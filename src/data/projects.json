@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "JIRA",
+    "description": "Tickets and a tasks management application",
+    "teamMembers": [
+      "cd5047ed-10fb-4405-b2ad-a7ce0f6c0cd2"
+    ],
+    "status": "active",
+    "createdAt": "2025-01-06T07:16:40.766Z",
+    "tasks": [],
+    "tickets": []
+  },
+  {
+    "id": "16929a06-c268-4c3a-ab55-85fbf2add865",
+    "name": "Whatsapp Clone",
+    "description": "Whatsapp clone for mauj masti",
+    "teamMembers": [
+      "cd5047ed-10fb-4405-b2ad-a7ce0f6c0cd2"
+    ],
+    "status": "active",
+    "createdAt": "2025-01-06T07:22:06.053Z",
+    "tasks": [],
+    "tickets": []
+  }
+]
