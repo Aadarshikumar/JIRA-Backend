@@ -48,6 +48,15 @@ class ProjectPresenter {
       throw error;
     }
   }
+
+  static async getAllProjects() {
+    try {
+      const projects = await Project.findAll();
+      return projects;
+    } catch (error) {
+      throw error;
+    }
+  }
 }
 
 module.exports = ProjectPresenter;

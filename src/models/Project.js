@@ -53,6 +53,11 @@ class Project {
     const filteredProjects = projects.filter(project => project.id !== id);
     await fs.writeFile(DB_PATH, JSON.stringify(filteredProjects, null, 2));
   }
+
+  static async findAll() {
+    const projects = JSON.parse(await fs.readFile(DB_PATH, 'utf8'));
+    return projects;
+  }
 }
 
 Project.initDB();

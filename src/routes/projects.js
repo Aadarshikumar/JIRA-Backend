@@ -42,4 +42,14 @@ router.delete('/:id', async (req, res) => {
   }
 });
 
+// get all projects
+router.get('/', async (req, res) => {
+  try {
+    const projects = await ProjectPresenter.getAllProjects();  // req.user.id
+    res.status(200).json(projects);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
+
 module.exports = router;

@@ -28,5 +28,33 @@
     "status": "todo",
     "priority": "medium",
     "createdAt": "2025-01-06T07:33:41.340Z"
+  },
+  {
+    "id": "2200c666-dff4-4835-abcf-4fb4cf96e5fd",
+    "title": "To solve the 404 not found error, you will need to troubleshoot the issue by checking the URL for any typos, ensuring that the file or page exists on the server, and verifying that there are no broken links or missing resources. You may also need to check the server configuration, htaccess file, and permissions to ensure that the page is accessible to users. Additionally, clearing the browser cache and cookies can sometimes resolve the error. If the issue persists, you may need to consult with",
+    "projectId": "1",
+    "assignee": "56da74be-2394-4d82-ae1c-6f341513390e",
+    "status": "progress",
+    "priority": "high",
+    "createdAt": "2025-01-21T10:00:22.320Z"
+  },
+  {
+    "id": "e2af22c6-e5ba-445a-bd86-75456040ab6b",
+    "title": "Task: \nCreate a RESTful API endpoint that allows users to retrieve project details by specifying its unique ID. \n\nDescription: \nThe task involves designing and implementing a GET API endpoint that will enable users to fetch specific project details by providing the project's ID as a parameter. The API should adhere to standard REST API principles and return the project details in a structured format, such as JSON, XML, or any other agreed-upon format.\n\nKey requirements for the API include:\n1. Accepting the",
+    "projectId": "1",
+    "assignee": "56da74be-2394-4d82-ae1c-6f341513390e",
+    "status": "progress",
+    "priority": "high",
+    "createdAt": "2025-01-21T10:04:29.154Z"
+  },
+  {
+    "id": "fc0d038b-e5cd-4a69-a506-e6f066785ac8",
+    "title": "Create get API for geeting user details by its user_id",
+    "description": "Create a RESTful API endpoint that allows users to retrieve user details based on a specified user_id. This API will provide a secure and efficient way for developers to access specific user information from the database. The endpoint will return a JSON response containing the requested user's details, such as name, email, and profile picture.",
+    "projectId": "1",
+    "assignee": "56da74be-2394-4d82-ae1c-6f341513390e",
+    "status": "progress",
+    "priority": "high",
+    "createdAt": "2025-01-21T10:08:35.427Z"
   }
 ]
