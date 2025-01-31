@@ -19,5 +19,41 @@
     "password": "$2a$10$3s32IxXVt5bKPiktj1cGzO5e3dFTazFQTNrUTemloDYk3.5BA1lgG",
     "role": "developer",
     "createdAt": "2025-01-06T06:52:40.641Z"
+  },
+
+  {
+    "id": "7c98252a-827c-41e8-9fc7-972ef7a799c3",
+    "username": "admin",
+    "password": "$2a$10$nNJWmHz8FLrloeexDC0OHOERDDpMhv4oXaBLaRxXVyVWNPoKV7Ln6",
+    "role": "admin",
+    "createdAt": "2025-01-04T10:33:03.079Z"
+  },
+  {
+    "id": "cd5047ed-10fb-4405-b2ad-a7ce0f6c0cd2",
+    "username": "aadii",
+    "password": "$2a$10$1Vhk./cwQK9bIkBfg03YnOqtKzqQ8isHHgNftMFE4CFDNItWRmc.6",
+    "role": "admin",
+    "createdAt": "2025-01-06T06:52:00.020Z"
+  },
+  {
+    "id": "22bd441a-7b61-4767-814f-72c31a66e344",
+    "username": "Ravi",
+    "password": "$2a$10$3s32IxXVt5bKPiktj1cGzO5e3dFTazFQTNrUTemloDYk3.5BA1lgG",
+    "role": "developer",
+    "createdAt": "2025-01-06T06:52:40.641Z"
+  },
+  {
+    "id": "68618315-aeab-4d28-b9e4-556cba3e00a3",
+    "username": "ujala",
+    "password": "$2a$10$x/78.T4rVwFE4pXxL9Kfeu9nN8BHSoSR8uonu57p4YP5vE4jmYAkO",
+    "role": "developer",
+    "createdAt": "2025-01-22T06:39:33.857Z"
+  },
+  {
+    "id": "3cc135b6-e4be-4135-84d4-b8cab6ad2061",
+    "username": "suraj",
+    "password": "$2a$10$gGMmogb5OtfDfYRPlik.g.37vMVHr77auS/PppdbwUwWcDrNrd9rm",
+    "role": "developer",
+    "createdAt": "2025-01-31T10:05:15.010Z"
   }
 ]
